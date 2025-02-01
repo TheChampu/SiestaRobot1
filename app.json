@@ -10,11 +10,11 @@
       ],
     
    "logo":    "https://telegra.ph/file/566d0f3fb2107bd8ecb27.jpg",  
-   "repository": "https://github.com/shiinobu/https://github.com/aashuxxD/SiestaRobot",
+   "repository": "https://github.com/TheChampu/SiestaRobot",
    "addons": [
           {
          "options": {
-            "version": "12"
+            "version": "14"
          },
          "plan": "heroku-postgresql"
       }
